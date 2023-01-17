@@ -1,0 +1,13 @@
+<div>
+  <slot name="myslot"></slot>
+  <div>Some Text</div>
+</div>
+
+<style webc:scoped>
+  :host {
+    display: block;
+    background: blue;
+    color: white;
+    padding: 0.5rem;
+  }
+</style>

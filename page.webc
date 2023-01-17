@@ -1,0 +1,8 @@
+---
+layout: "layout.webc"
+---
+<my-web-component>
+  <div slot="myslot">
+    I'd love to see this line here
+  </div>
+</my-web-component>
